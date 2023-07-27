@@ -1,34 +1,6 @@
 # 🧠ChatGPT 中文调教指南
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=plexpt.chatgpt&left_color=blue&right_color=green)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlexPt%2Fawesome-chatgpt-prompts-zh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
-
-[国内中文版](https://chat.aimakex.com/i/1)
-
-它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
-</div>
-
-### **ChatGPT 帐号： https://fk.fq.mk**
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-------
-
-## 基于GPT3.5 和 4.0 的国内中文版智造喵
-
-智造喵  https://chat.aimakex.com
-
-![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
-
-
 
 ## 它能干什么? 
 
